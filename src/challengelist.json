@@ -58,6 +58,17 @@
     "id": 5
   },
   {
+    "name": "Altertale by Shiqi Unbalanced Mode Phases 1+2 No Hit",
+    "tier": "Elite",
+    "ctype": "No Hit",
+    "game": "Other",
+    "rtype": "Full Battle",
+    "sub": [
+      "Altertale by Shiqi Unbalanced Mode Phase 1 Normal Damage No Heal",
+      "Altertale by Shiqi Unbalanced Mode Phase 2 Normal Damage No Heal"
+    ]
+  },
+  {
     "name": "Altertale by Shiqi Unbalanced Mode Phase 2 No Hit",
     "tier": "Master",
     "ctype": "No Hit",
@@ -87,15 +98,6 @@
       9
     ],
     "id": 8
-  },
-  {
-    "name": "Angry Sans Phase 1 RNG SUX Normal Mode No Heal",
-    "tier": "Advanced",
-    "ctype": "No Heal",
-    "game": "Other",
-    "rtype": "Battle Phase",
-    "sub": [],
-    "id": 9
   },
   {
     "name": "Angry Sans Phase 2 RNG SUX No Hit",
@@ -1586,8 +1588,8 @@
     "id": 159
   },
   {
-    "name": "Gemenatale No Hit",
-    "tier": "Advanced",
+    "name": "Gemenatale Sans Phase 1 v2 No Hit",
+    "tier": "Expert",
     "ctype": "No Hit",
     "game": "Other",
     "rtype": "Survival Fight",
@@ -1899,6 +1901,14 @@
     "rtype": "Survival Fight",
     "sub": [],
     "id": 192
+  },
+  {
+    "name": "Justicetale re-written Sans by DLW Phase 2 No Hit",
+    "tier": "Elite",
+    "ctype": "No Hit",
+    "game": "Other",
+    "rtype": "Battle Phase",
+    "sub": []
   },
   {
     "name": "Justicetale Papyrus by Shiqi Phase 1 No Heal",
@@ -2604,6 +2614,24 @@
     "rtype": "Full Battle",
     "sub": [],
     "id": 263
+  },
+  {
+    "name": "Relieftale Sans by LQV Phase 1 No Heal",
+    "tier": "Advanced",
+    "ctype": "No Heal",
+    "game": "Other",
+    "rtype": "Battle Phase",
+    "sub": []
+  },
+  {
+    "name": "Relieftale Sans by LQV Phase 1 No Hit",
+    "tier": "Master",
+    "ctype": "No Hit",
+    "game": "Other",
+    "rtype": "Battle Phase",
+    "sub": [
+      "Relieftale Sans by LQV Phase 1 No Heal"
+    ]
   },
   {
     "name": "Revenge Papyrus by Shiqi No Heal",
